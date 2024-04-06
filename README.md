@@ -29,4 +29,6 @@ Sherin Arshed
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgements
-This code utilizes the pandas library for data manipulation and analysis. We acknowledge the developers and contributors of the pandas library for their valuable work in creating and maintaining this powerful tool for data handling in Python.
+This code utilizes the pandas library for data manipulation and analysis. I acknowledge the developers and contributors of the pandas library for their valuable work in creating and maintaining this powerful tool for data handling in Python.
+
+Acknowledging the data for the python being used from an assignment for a previous course. 
